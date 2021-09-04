@@ -1,5 +1,5 @@
 # ImageGPSTool
-Image GPS tool: convert png to jpg, convert UTM, insert coordinates information to jpg 
+AirSim image coordinates tool: convert png to jpg, convert UTM system to Lat-Long system, and insert them to jpg images. 
 
 ## How to use
 
